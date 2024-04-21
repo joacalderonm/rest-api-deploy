@@ -1,0 +1,10 @@
+[
+  { "id": 1, "nombre": "BATERÍAS Y CARGADOR", "descripcion": null },
+  { "id": 2, "nombre": "TALADROS", "descripcion": null },
+  { "id": 3, "nombre": "SIERRAS Y CORTADORAS", "descripcion": null },
+  { "id": 4, "nombre": "LLAVES DE IMPACTO", "descripcion": null },
+  { "id": 5, "nombre": "ACCESORIOS", "descripcion": null },
+  { "id": 6, "nombre": "HERRAMIENTAS Y MANUALES", "descripcion": null },
+  { "id": 7, "nombre": "ESMERILES", "descripcion": null },
+  { "id": 8, "nombre": "DESTORNILLADOR", "descripcion": null }
+]

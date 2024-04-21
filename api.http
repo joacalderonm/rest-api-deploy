@@ -1,0 +1,25 @@
+### Recuperar hola mundo
+GET http://localhost:1234/
+
+### Recuperar todas las peliculas
+GET  http://localhost:1234/ferremas
+
+###Recuperar toda la pelicula por id
+GET http://localhost:1234/ferremas/3
+
+###Crear una categoria
+POST http://localhost:1234/ferremas
+Content-Type: application/json
+
+{
+    "nombre": "prueba",
+    "descripcion" : null
+}
+
+###Actualizar Categoria
+PATCH http://localhost:1234/ferremas/2
+Content-Type: application/json
+
+{
+    "descripcion": "SADASD"
+}
